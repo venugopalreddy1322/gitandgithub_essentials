@@ -1,4 +1,3 @@
-This is from Feature branch
 This is added in Master branch
 
 
