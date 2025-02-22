@@ -1,7 +1,0 @@
-This is from Feature branch
-This is added in Master branch
-
-
-This is added after creating feature branch
-
-Now added from Feature branch to create conflict
