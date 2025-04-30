@@ -16,3 +16,6 @@ git branch -d <branch-name>
 ## log
 - git log
 - git log --oneline   shows the logs in oneline 
+
+git branch --merged  --- shows which branches are merged
+git branch --no-merged  -- shows which branches are not merged 
