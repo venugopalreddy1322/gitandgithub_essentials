@@ -9,3 +9,10 @@ git checkout <branch-name>
 git branch
 - To merge branch
 git merge <name of the branch to be meerged into the branch you are on>
+
+### Delete branch
+git branch -d <branch-name>
+
+## log
+- git log
+- git log --oneline   shows the logs in oneline 
